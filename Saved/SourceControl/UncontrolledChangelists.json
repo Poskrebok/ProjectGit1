@@ -5,9 +5,15 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/Poskrebok/Documents/Unreal Projects/Project1/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"C:/Users/Poskrebok/Documents/Unreal Projects/ProjectGit1/Content/__ExternalActors__/TopDown/Maps/TopDownMap/5/4U/UB81TN4F40QUGKBYUDHA6N.uasset",
+				"C:/Users/Poskrebok/Documents/Unreal Projects/ProjectGit1/Content/TestModels/Building1test.uasset",
+				"C:/Users/Poskrebok/Documents/Unreal Projects/ProjectGit1/Content/__ExternalActors__/TopDown/Maps/TopDownMap/3/RG/XOAZMB5QVL20UGXOCZ1LZK.uasset",
+				"C:/Users/Poskrebok/Documents/Unreal Projects/ProjectGit1/Content/__ExternalActors__/TopDown/Maps/TopDownMap/5/4H/A97NYCRTHBFP7PIQWNF4BO.uasset",
+				"C:/Users/Poskrebok/Documents/Unreal Projects/ProjectGit1/Content/__ExternalActors__/TopDown/Maps/TopDownMap/D/JO/44D9YZDEHFDY2HG2FIJWE2.uasset",
+				"C:/Users/Poskrebok/Documents/Unreal Projects/ProjectGit1/Content/TestModels/Material.uasset",
 				"C:/Users/osiny/Documents/UE Project/Content/LevelPrototyping/Materials/OSCommit.uasset",
-				"C:/Users/osiny/Documents/UE Project/Content/__ExternalActors__/TopDown/Maps/TopDownMap/7/V9/FYE97PCQGKIRUDX9FB1QCI.uasset",
-				"C:/Users/Poskrebok/Documents/Unreal Projects/Project1/Content/StarterContent/Architecture/Floor_400x400.uasset"
+				"C:/Users/osiny/Documents/UE Project/Content/__ExternalActors__/TopDown/Maps/TopDownMap/7/V9/FYE97PCQGKIRUDX9FB1QCI.uasset"
 			]
 		}
 	]
